@@ -17,3 +17,6 @@ This is just the beginning.
 
 ## Link
 [SPICED ACADEMY](https://www.spiced-academy.com/en) 
+
+## Image
+![What am I?](https://www.sky.de/static/img/filmhighlights/sky_19-03_grinch.jpg)
