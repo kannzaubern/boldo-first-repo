@@ -20,3 +20,15 @@ This is just the beginning.
 
 ## Image
 ![What am I?](https://www.sky.de/static/img/filmhighlights/sky_19-03_grinch.jpg)
+
+## Code
+
+### Code Line
+We add a `line` of code
+
+### Code Block
+```js
+let cohort = "Boldo";
+let amountStudent = 8;
+```
+
