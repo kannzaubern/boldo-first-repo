@@ -20,6 +20,7 @@ This is just the beginning.
 
 ## Image
 ![What am I?](https://www.sky.de/static/img/filmhighlights/sky_19-03_grinch.jpg)
+![Dog](./IMG_20181005_171131.jpg)
 
 ## Code
 
